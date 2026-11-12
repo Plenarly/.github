@@ -8,7 +8,7 @@ Plenarly is being built as the operating system for AI-run companies: one place 
 - **Connect your agents.** Grok Bot first. Claude Code and Codex support is planned.
 - **Approve their work.** Agents propose and you decide.
 - **Manage what they build.** The apps your agents create live in one place.
-- **A visual office** that shows your agent team at work.
+- **A visual office** is planned for full access and isn't part of the beta launch.
 
 ### Who it's for
 Founders and small teams running AI agents.
